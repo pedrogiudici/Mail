@@ -1,0 +1,28 @@
+textarea {
+    min-height: 400px;
+    color: rgb(219, 219, 219);
+}
+.diva{
+    display: flex;
+    border: solid 1px black;
+    padding: 5px;
+    cursor: pointer;
+}
+.divb{
+    font-weight: bold;
+    width: 300px;
+}
+.divc{
+    margin-left: 5px;
+}
+.divd{
+    margin-left: auto;
+    color: rgba(0, 0, 0, 0.5);
+}
+.dive{
+    float: right;
+    height: 36px;
+    border: solid 1px black;
+    padding: 4px;
+    cursor: pointer;
+}
