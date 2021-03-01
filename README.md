@@ -11,7 +11,7 @@ python manage.py runserver
 ```
 ## Vídeo no Youtube
 
-Neste pequeno [vídeo](https://youtu.be/MR40Zj3Gf6c){:target="_blank"} é demonstrado o uso do site em todas as suas funcionalidades
+Neste pequeno [vídeo](https://youtu.be/MR40Zj3Gf6c) é demonstrado o uso do site em todas as suas funcionalidades
 
 ## Especificações do projeto exigidas pelo curso
 
